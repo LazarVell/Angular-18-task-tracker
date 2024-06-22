@@ -6,8 +6,8 @@ To run the project:
 2. open it in VSCode
 3. Ensure that your VSCode terminal is pointing to the root folder of the project, or open a terminal directly in the root folder
 4. Run the following commands, assuming you have NPM installed:
-  npm i
-  npm run server
-  npm run start
+  - npm i
+  - npm run server
+  - npm run start
 
 Your Task Tracker should be up and running! Enjoy!
